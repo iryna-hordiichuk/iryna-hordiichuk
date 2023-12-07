@@ -3,7 +3,7 @@
 I am Iryna 🙂
 
 - 🔭 I’m currently working hard to learn Node.js
-- 🌱 I’m currently learning back-end side of webdevelopment
+- 🌱 I’m currently learning back-end side of web-development
 - 👯 I’m looking to collaborate on any project which improves peoples' lives
 - 🤔 I’m looking for help with creating my personal wesite-portfolio
 - 💬 Ask me about recyling, minimalism, micronutriens, clean code priciples 
